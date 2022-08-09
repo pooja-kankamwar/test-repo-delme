@@ -1,4 +1,4 @@
-// this is a comment test
+// this is a PR comment
 const t = {
   name: "this is a test",
 };
