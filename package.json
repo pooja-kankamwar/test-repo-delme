@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NirHarhas/test-repo-delme/issues"
   },
-  "homepage": "https://github.com/NirHarhas/test-repo-delme#readme"
+  "homepage": "https://github.com/NirHarhas/test-repo-delme#readme",
+  "dependencies": {
+    "mongoose": "^30.0.0"
+  },
 }
